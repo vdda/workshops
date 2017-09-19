@@ -1,4 +1,4 @@
-BICONTAINERS HACKTHON 2017: Reproducible Bioinformatics
+BI0CONTAINERS HACKTHON 2017: Reproducible Bioinformatics
 ---------------------------------------------------------
 
 - Date: 9-11 October 2017
